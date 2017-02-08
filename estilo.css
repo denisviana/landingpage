@@ -52,9 +52,9 @@ body{
 
 .img-logo{
     height: 50px;
-    width: 50px;
+    width: 150px;
     display: block;
-    background: url('img/logo-simbolo_cor_invertida.png') no-repeat;
+    background: url('img/logotipo.png') no-repeat;
     background-size: contain;
     color: transparent;
 }
