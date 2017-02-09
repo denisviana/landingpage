@@ -52,9 +52,9 @@ body{
 
 .img-logo{
     height: 50px;
-    width: 150px;
+    width: 50px;
     display: block;
-    background: url('img/logotipo.png') no-repeat;
+    background: url('img/simbolo-logo-branco.png') no-repeat;
     background-size: contain;
     color: transparent;
 }
