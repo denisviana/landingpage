@@ -317,7 +317,7 @@
                         </asp:Label>
                   
                     </div>
-                    <asp:Button ID="bnt_Inscricao" runat="server" Text="Inscrever-se" ToolTip="Confirmar os dados" CssClass="btn btn-large btn-primary" OnClick="bnt_Inscricao_Click" />
+                    <asp:Button ID="bnt_Inscricao" runat="server" Text="Inscrever-se" ToolTip="Confirmar os dados" CssClass="btn btn-lg btn-primary" OnClick="bnt_Inscricao_Click" />
                   
                 </div>
                 <asp:Label ID="MessageLabel" runat="server" Text="" ForeColor="Red"></asp:Label>
