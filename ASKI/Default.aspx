@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="col-sm-5">
-                    <img src="img/cel_capa.png" class="img-responsive" id="img-home" alt="">
+                    <iframe src="https://marvelapp.com/f47fib6?emb=1" width="330" height="640" frameborder="0" allowtransparency="true"></iframe>
                 </div>
             </div>
         </div>
